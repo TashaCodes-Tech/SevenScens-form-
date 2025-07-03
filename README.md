@@ -38,7 +38,7 @@ It’s a clean, beginner-friendly form that could easily be expanded in the futu
 
 ## 🚀 Live Demo
 
-> Coming soon (GitHub Pages link here, if you publish it)
+> Coming soon
 
 ---
 
